@@ -6,3 +6,13 @@ This project focuses on building a relational library database using SQL. It inv
 
 
 **Objectives**
+
+- Design and implement a relational database to simulate a multi-branch library system
+- Perform CRUD operations: Creat, Read, Update, Delete to efficiently manage and manipulate data
+- Utilize CTAS (Create Table As Select) to create summary and reporting tables
+- Develop advanced SQL queries to analyze data and extract meaningful insights
+
+**Project Structure**
+- Database Design
+
+
